@@ -116,7 +116,7 @@ export default function Home() {
       <p className="mb-8 text-xl font-thin mt-6 text-center">
         Hopefully,{" "}
         <span className="font-normal text-red-400">things get better</span>{" "}
-        every day. See you!
+        every day. Love you!
       </p>
     </main>
   );
